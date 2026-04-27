@@ -1,4 +1,4 @@
-# Task 1: Exploring and Visualizing the Iris Dataset
+# Exploring and Visualizing the Iris Dataset
 
 ## 📌 Project Overview
 This project is part of my AI/ML Engineering Internship at **DevelopersHub Corporation**. The goal is to perform Exploratory Data Analysis (EDA) on the classic Iris dataset to understand data distributions and feature relationships.
@@ -33,3 +33,10 @@ Each sample has four features: Sepal Length, Sepal Width, Petal Length, and Peta
 1. Clone the repository.
 2. Install dependencies: `pip install pandas seaborn matplotlib`.
 3. Open `Iris_Analysis.ipynb` in Jupyter Notebook or Google Colab.
+
+
+## 👤 Author
+[Noor Rami Saad] – AI/ML Engineering Intern @ DevelopersHub Corporation
+
+## 📅 Due Date
+27th April, 2026
